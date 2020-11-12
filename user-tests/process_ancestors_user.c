@@ -1,5 +1,5 @@
 // Brian Frasers Workshop code was used as inspiration for some of this
-// Pierre Drego 301301848
+// Name studentNumber //** GIT privacy EDIT
 // CMPT 300
 
 #include <stdio.h>
